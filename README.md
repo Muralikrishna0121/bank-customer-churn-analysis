@@ -189,12 +189,12 @@ Bank_Churn_Analysis
 ---
 ## Dashboard Preview
 
-![Bank Churn Dashboard](visuals/dashboard_screenshot.png)
+![Bank Churn Dashboard]("D:\Bank_Churn_Analysis\visuals\DASHBOARD.png")
 ## Python Visualizations
 
 ### Churn Distribution
 
-![Chart1](visuals/chart1.png)
+![Chart1]("D:\Bank_Churn_Analysis\visuals\chart1.png")
 
 ### Age Distribution
 
