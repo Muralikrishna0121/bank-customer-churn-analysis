@@ -187,7 +187,34 @@ Bank_Churn_Analysis
 - Predictive analytics using classification algorithms
 
 ---
+## Dashboard Preview
 
+![Bank Churn Dashboard](visuals/dashboard_screenshot.png)
+## Python Visualizations
+
+### Churn Distribution
+
+![Chart1](visuals/chart1.png)
+
+### Age Distribution
+
+![Chart2](visuals/chart2.png)
+
+### Credit Score Distribution
+
+![Chart3](visuals/chart3.png)
+
+### Churn vs Age
+
+![Chart4](visuals/chart4.png)
+
+### Churn vs Balance
+
+![Chart5](visuals/chart5.png)
+
+### Correlation Heatmap
+
+![Chart6](visuals/chart6.png)
 ## 👨‍💻 Author
 
 **Murali Krishna**
